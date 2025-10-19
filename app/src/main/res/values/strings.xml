@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">User Form</string>
+    <string name="name_label">Имя</string>
+    <string name="age_label">Возраст</string>
+    <string name="gender_label">Пол</string>
+    <string name="subscribe_label">Хочу получать новости</string>
+    <string name="submit_label">Отправить</string>
+</resources>
